@@ -1,0 +1,3 @@
+export const INPUT_MAXLENGTH = 255
+export const INPUT_PHONE_MAXLENGTH = 32
+export const RATING_TEXT_MAXLENGTH = 500
